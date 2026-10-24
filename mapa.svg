@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#e3f1e6"/>
+  <!-- rio -->
+  <path d="M0 215 C100 175 200 255 400 195 L400 245 C200 305 100 225 0 265 Z" fill="#9fd3e6"/>
+  <!-- parques -->
+  <rect x="190" y="20" width="90" height="80" rx="10" fill="#b5dcbb"/>
+  <rect x="300" y="150" width="70" height="40" rx="10" fill="#b5dcbb"/>
+  <!-- quarteirões -->
+  <rect x="20" y="20" width="100" height="80" rx="6" fill="#f3efe6"/>
+  <rect x="20" y="150" width="100" height="45" rx="6" fill="#f3efe6"/>
+  <rect x="165" y="150" width="110" height="35" rx="6" fill="#f3efe6"/>
+  <rect x="300" y="20" width="80" height="80" rx="6" fill="#f3efe6"/>
+  <!-- ruas -->
+  <rect x="0" y="120" width="400" height="18" fill="#ffffff"/>
+  <rect x="140" y="0" width="18" height="300" fill="#ffffff"/>
+  <rect x="285" y="0" width="12" height="200" fill="#ffffff"/>
+  <!-- marcador -->
+  <g transform="translate(-51,-46)">
+    <path d="M200 60 C170 60 155 85 155 105 C155 135 200 175 200 175 C200 175 245 135 245 105 C245 85 230 60 200 60 Z" fill="#f28c28"/>
+    <circle cx="200" cy="105" r="16" fill="#ffffff"/>
+  </g>
+</svg>
